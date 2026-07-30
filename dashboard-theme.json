@@ -1,0 +1,7 @@
+{
+  "name": "ChurnRetentionTheme",
+  "dataColors": ["#1F4E79", "#2E7D32", "#C62828", "#F4A300", "#595959", "#8E9AAF", "#4A6FA5", "#B0413E"],
+  "background": "#FFFFFF",
+  "foreground": "#262626",
+  "tableAccent": "#1F4E79"
+}
